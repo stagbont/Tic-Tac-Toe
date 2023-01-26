@@ -62,3 +62,13 @@ main p {
     height: 60px;
 }
 
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .logo {
+    width: 100px;
+    height: auto;
+}
